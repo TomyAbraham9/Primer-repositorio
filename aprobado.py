@@ -25,3 +25,6 @@ if nota_1 and nota_2 >= 0 and 10:
 
 else:
     print("Debe ingresar notas del 0 al 10")
+
+
+    # este es un comentario
